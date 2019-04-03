@@ -5,7 +5,7 @@ import java.util.*;
     Scanner input = new Scanner(System.in);
     String User = "";
     
-    System.out.println("Please enter your FULL name...");
+    System.out.println("Please tell me your FULL name...");
     String User = input.nextLine()-2;
     
     int num = user.length();
